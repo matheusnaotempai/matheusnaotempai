@@ -1,7 +1,7 @@
 - 👋 Ola, eu sou @matheusnaotempai
-- 👀 Estou interessado em saber programar
-- 🌱 Atualmente estou aprendendo html/css e js
-- 💞️ Espero conseguir trabalhar nessa area proximo ano
+- 👀 Estou interessado em um emprego na area da programaçao
+- 🌱 Atualmente estou aprendendo html/css/js e php
+- 💞️ Espero conseguir aprender TypeScript/Sass/React
 - 📫 How to reach me @matheusnaotempai no Instagram
 
 <!---
